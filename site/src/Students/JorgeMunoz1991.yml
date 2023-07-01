@@ -1,0 +1,11 @@
+---
+theme: online-cv
+skin: orange
+basic_info:
+  name: Jorge Munoz Guerrero
+  email: jorgemunoz1991@gmail.com
+education:
+  - degree: Full-Stack Software Development Bootcamp
+    institution: 4Geeks
+skills:
+  - skill: JavaScript, HTML and CSS
